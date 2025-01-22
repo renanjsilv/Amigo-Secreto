@@ -2,7 +2,9 @@
 
 Este é um aplicativo web simples para realizar sorteios de amigo secreto. Ele permite que você adicione nomes de amigos à lista e, em seguida, sorteie um amigo secreto aleatoriamente.
 
-Você pode acessar o projeto através do seguinte link: [https://amigo-secreto-renanjsilv.netlify.app](https://amigo-secreto-renanjsilv.netlify.app)
+Você pode acessar o projeto através do seguinte link: [https://amigo-secret-renanjsilv.netlify.app](https://amigo-secret-renanjsilv.netlify.app)
+
+![Tela do Amigo Secreto](assets/amigo-secreto.png)
 
 ## ✨ Funcionalidades
 
