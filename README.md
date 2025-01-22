@@ -4,7 +4,7 @@ Este é um aplicativo web simples para realizar sorteios de amigo secreto. Ele p
 
 Você pode acessar o projeto através do seguinte link: [https://amigo-secret-renanjsilv.netlify.app](https://amigo-secret-renanjsilv.netlify.app)
 
-![Tela do Amigo Secreto](assets/amigo-secreto.png)
+![Tela do Amigo Secreto](assets/Tela-inicial.png)
 
 ## ✨ Funcionalidades
 
